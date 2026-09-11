@@ -19,8 +19,8 @@ This project was made with the assistance of generative AI tools (Claude Code). 
 - Authoring all included technical documentation and standardation of in-code comments.
 - Assistance with troubleshooting specific errors encountered during testing.
 - Anonymization of included values.
-- Reorganization of variables.tf for the sake of readability.
-- Suggestion of outputs to include.
+- Reorganization of contents in the variables.tf file to improve readability.
+- Suggestion of outputs to include in the outputs.tf file.
 
 ## Prerequisites
 
